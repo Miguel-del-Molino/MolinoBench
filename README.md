@@ -17,4 +17,4 @@ Each pair of files represents a sentence-aligned parallel corpus. All text files
 
 As part of the validation of the corpus, we additionally release pretrained neural machine translation models based on mBART and NLLB, which were fine-tuned using the MolinoBench training data. The resulting model predictions and evaluation outputs are provided in a dedicated experiments folder. These resources allow users to reproduce the reported experiments, assess the quality of the corpus, and use the provided models as baselines for further research.
 
-MolinoBench is released as part of the Miguel del Molino project (https://migueldelmolino.es/)
+MolinoBench is released as part of the Miguel del Molino project (https://migueldelmolino.es/) supported by the Aragon Regional Government (Spain) [grant number PROY_S11_24].
